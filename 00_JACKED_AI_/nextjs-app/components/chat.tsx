@@ -73,7 +73,7 @@ export function Chat() {
         style={
           { fontSize: "1.5em", fontWeight: "bold", color: "white" }
         }
-        >Jacked AI</span>
+        >🏋️‍♂️ Jacked AI 🤖</span>
       </header>
 
       {/* Chat history */}
