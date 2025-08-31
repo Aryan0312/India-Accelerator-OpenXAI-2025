@@ -49,7 +49,7 @@ export function Chat() {
     <div>
       <head>
       <title>
-        Jacked AI
+        Jacked AI🏋️‍♂️🤖
       </title>
       </head>
       {/* Header */}
